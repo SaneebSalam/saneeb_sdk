@@ -16,4 +16,10 @@
         android:layout_height="wrap_content"
         android:text="Saneeb Salam."
         android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/pay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PAY" />
 </LinearLayout>
