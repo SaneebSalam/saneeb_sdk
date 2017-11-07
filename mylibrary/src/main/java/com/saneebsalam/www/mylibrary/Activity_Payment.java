@@ -32,7 +32,7 @@ import javax.xml.parsers.ParserConfigurationException;
  * on 2/20/2017.
  */
 
-public class Activity_Payment extends AppCompatActivity {
+class Activity_Payment extends AppCompatActivity {
 
     WebView webview;
     String URL;
@@ -48,7 +48,7 @@ public class Activity_Payment extends AppCompatActivity {
         webview = (WebView) findViewById(R.id.webview);
 
 //        URL = getIntent().getStringExtra(Keys.paymenturl);
-        URL="https://www.iplayin.com/_checkout.html";
+        URL = "https://www.iplayin.com/_checkout.html";
 //        URL="http://www.iplayin.com/payresponse.aspx?referenceid=NV17082802155442401&success=True&TransactionID=QPTRN240282017822560&MobileNumber=97433300020&Amount=1&InvoiceNo=NPMP201728250225232399";
 //        RedirectUrl = getIntent().getStringExtra(Keys.RedirectUrl);
 
