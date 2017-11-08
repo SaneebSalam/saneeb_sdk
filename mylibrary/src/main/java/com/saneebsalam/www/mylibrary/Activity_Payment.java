@@ -11,7 +11,6 @@ import android.webkit.JavascriptInterface;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.w3c.dom.Document;
@@ -32,7 +31,7 @@ import javax.xml.parsers.ParserConfigurationException;
  * on 2/20/2017.
  */
 
-class Activity_Payment extends AppCompatActivity {
+public class Activity_Payment extends AppCompatActivity {
 
     WebView webview;
     String URL;

@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">My Library</string>
+    <string name="app_name">Noqoody Pay</string>
+    <string name="payment_option">PAYMENT OPTION</string>
+    <string name="pay_via_mobile">Pay via Mobile</string>
+    <string name="pay_via_credit_card">Pay via Credit Card</string>
+    <string name="pay_via_debit_card">Pay via Debit Card</string>
+    <string name="pay_via_cash">Pay via Cash</string>
+    <string name="comingsoon">Coming Soon</string>
+    <string name="pay_via_paypal">Pay Via Paypal</string>
+    <string name="pay_via_noqoody">Pay Via Noqoody</string>
+    <string name="pay_again">Pay</string>
 </resources>

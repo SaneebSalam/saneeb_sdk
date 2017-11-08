@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="colorPrimary">#99001A</color>
     <color name="colorPrimaryDark">#e199001A</color>
     <color name="colorAccent">#99001A</color>
+    <color name="white">#ffffff</color>
+    <color name="loginbg">#e5e5e5</color>
+    <color name="status_green">#2cca13</color>
 </resources>
